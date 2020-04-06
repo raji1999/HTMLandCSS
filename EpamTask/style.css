@@ -1,0 +1,187 @@
+ body{
+     margin: 0px;
+     padding: 0px;
+ }
+ .center
+{
+	width: 400px;
+    margin-top: 80px;
+    margin-left: 500px;
+	position: relative;
+	background: white;
+    border-style: solid;
+    border-color:black;
+	box-shadow: 2px 3px;
+
+}
+.center.form
+{
+	position:absolute;
+	background: white;
+	width: 100%;
+	padding: 50px 10px 0 30px;
+	box-sizing: border-box;
+	border: 2px solid #6d1c7d;
+	border-radius: 0 0 5px 5px;
+	border-color: black;
+}
+
+.center .header{
+	padding-left:30px;
+	padding-right: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	padding: 25px 1 25px 25px;
+    background:#ADD8E6;
+    text-align: center;
+	border-bottom: 1px solid #370e3f;
+	border-radius: 3px 3px 0 0;
+	}
+
+ h3
+{
+    text-align: center;
+}
+form
+{
+    size: 30px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right:10px;
+    outline:none;
+}
+input[type=email] {
+    padding: 3px;
+    width: 330px;
+    height:40px;
+    margin-left:0px;
+	margin-top:20px;
+
+    
+  }
+  i.fa-graduation-cap
+{
+	position: absolute;
+	left:10px;
+	right: 400px;
+	top:10px;
+    font-size:30px;
+    color:white;
+    border-radius: 50%;
+    width:40px;
+    height:40px;
+    
+}
+i.fa-times{
+	position: absolute;
+	left:365px;
+	right:100px;
+	top:15px;
+	color: silver;
+    font-size: 23px;
+    color:white;
+
+}
+
+
+  input[type=password] {
+    padding: 4px;
+    width: 330px;
+    height:40px;
+    margin-top: 10px ;
+    margin-left:0px;
+   
+
+  }
+  i.fa-envelope{
+    position: absolute;
+    font-size: 20px;
+    color: grey;
+    margin:30px 0 0 -30px;
+}
+i.fa-unlock-alt
+{
+    position: absolute;
+    font-size: 20px;
+    color: grey;
+    margin:20px 0 0 -30px;
+}
+.button {
+    background-color: powderblue;
+    border: none;
+    color: white;
+    padding: 7px 150px;
+    text-align: center;
+    width: 330px;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 8px;
+    margin-left:-30px;
+    }
+.fa-facebook
+{
+    top: 0%;
+    padding:10px;
+    position: relative;
+    font-size: 30px;
+    background: #3b5998;
+    border-radius: 8px;
+    width: 330px;
+    height:32px;
+    color: white;
+    padding: 7px 150px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-left:0px;
+}
+.fa-google-plus
+{
+    top: 0%;
+    padding:10px;
+    position: relative;
+    font-size: 30px;
+    background: #dd4b39;
+    border-radius: 8px;
+    width: 330px;
+    height:32px;
+    color: white;
+    padding: 7px 150px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-left:0px;
+}
+.epam
+{
+  font-style:;
+  font-weight: bold;
+  color:white;
+  background: #9acd32 ;
+  margin-left: 0px;
+  margin-bottom: 30px;
+  padding-bottom: 2px;
+  font-size: 15px;
+  width: 330px;
+  text-align: center;
+  border-radius: 8px;
+  height:32px;
+}
+
+p
+{
+	width: 100%;
+	color:solid silver; 
+   text-align: center; 
+   border-bottom: 1px solid silver; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+}
+
+p span { 
+    background:#fff; 
+    padding:0 10px; 
+}
